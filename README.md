@@ -1,4 +1,4 @@
-# fitran
+# ==========================FITRAN=============================
 
 `fitran` is a command-line (CLI) tool written in Go. It provides functionality to convert, manage, or work with data/models (see “Functionality” below).  
 
